@@ -1,0 +1,98 @@
+<head>
+    <title>My Personal Profile</title>
+</head>
+<body>
+
+    <!-- Header with Name and Photo -->
+    <header>
+        <h1>Juliet Adzhiyan</h1>
+        <img src="file:///Users/julietadzhiyan/Desktop/IMG_5362.jpeg" alt="Portrait of Juliet Adzhiyan" width="200">
+    </header>
+
+    <!-- Short Bio Section -->
+    <section>
+        <h2><b>About Me</b></h2>
+        <p>
+            I am a passionate and dedicated individual with a strong interests in technology,
+            problem-solving, and creativity. I have really enjoy learning new skills over the 
+            past year and applying them to the real-world projects I face in my classes and workday.
+        </p>
+    </section>
+
+    <!-- Education Section -->
+    <section>
+        <h2>Education</h2>
+        <ul>
+            <li>Bachelor of Science in Computer Science – California State University - Northridge, 2026</li>
+        </ul>
+    </section>
+
+    <!-- Work Experience Section -->
+    <section>
+        <h2>Work Experience</h2>
+        <ul>
+            <li>Apple Support College Program Advisor (2024-Present)</li>
+            <li>Personal Assistant (2021-2023)</li>
+        </ul>
+    </section>
+
+    <!-- Career Interests Section -->
+    <section>
+        <h2>Career Interests</h2>
+        <p>
+            My ultimate goal is a career in Project Management. In preparation for this
+            I have obtained a few certifications from various sites to ensure I can start
+            building my knowledge while I look for internships/career opportunities. 
+        </p>
+    </section>
+
+    <!-- Courses Table Section -->
+    <section>
+        <h2>Fall 2025 Courses</h2>
+        <table border="1" cellpadding="6">
+            <tr>
+                <th><b>Course Name</b></th>
+                <th><b>Section #</b></th>
+                <th><b>Days of Class Meeting</b></th>
+                <th><b>Professor</b></th>
+            </tr>
+            <tr>
+                <td>Systems and Technology for Managers</td>
+                <td>IS312</td>
+                <td>Mon & Wed</td>
+                <td>Prof. Mahdi Najafabadi</td>
+            </tr>
+            <tr>
+                <td>Management and Organization Behaviors</td>
+                <td>MGT360</td>
+                <td>Mon & Wed</td>
+                <td>Prof. Cristina Rubino</td>
+            </tr>
+            <tr>
+                <td>Principles of Marketing</td>
+                <td>MKT304</td>
+                <td>Tue & Thu</td>
+                <td>Prof. Taehoon Im</td>
+            </tr>
+            <tr>
+                <td>Data Analysis and Models</td>
+                <td>SOM307</td>
+                <td>Tue & Thu</td>
+                <td>Prof. Thomas Wedel</td>
+            </tr>
+            <tr>
+                <td>Manufacturing Resource Planning</td>
+                <td>SOM464</td>
+                <td>Tue & Thu</td>
+                <td>Prof. Paul Fidler</td>
+            </tr>
+        </table>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>© 2025 Juliet Adzhiyan</p>
+    </footer>
+
+</body>
+</html>
